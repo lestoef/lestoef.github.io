@@ -9,7 +9,7 @@ name: lestoef
 description: Let's see
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://lestoef.github.io/images/nnmaw-logo.jpg
+avatar: https://raw.githubusercontent.com/lestoef/lestoef.github.io/master/images/nnmaw-logo.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://lestoef.github.io/images/nnmaw-logo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: stoefen@web.de
   facebook:
   flickr:
   github: lestoef
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://lestoef.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
