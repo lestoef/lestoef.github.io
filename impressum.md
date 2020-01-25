@@ -5,8 +5,6 @@ permalink: /impressum/
 ---
 
 ### Kontakt
-Verantwortlicher nach TMG:
-
 Henning Stöfen
 
 01724311148
